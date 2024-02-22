@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moaliSafaei , I'm a graduate student of mechanical engineering from the University of Tehran (Iran). 
+ 👋 Hi, I’m @moaliSafaei , I'm a graduate student of mechanical engineering from the University of Tehran (Iran). 
 - 👀 I specialize in the constitutive modeling of soft materials and also linear and non-linear FEM, etc.
 - 🌱 My research interests lie in the deployment of predictive models based on artificial intelligence, specifically machine learning (ML), 
     deep learning (DL), and reinforcement learning (RL), to address cutting-edge solid mechanics problems, with a particular focus on smart polymers.
